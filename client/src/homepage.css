@@ -1,0 +1,18 @@
+
+#img-container{
+    background: url("./assets/ironman.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color: #a46a6a;
+    height:100vh;
+}
+#nav{
+    background-color: black;
+    color:white;
+}
+
+#msgContainer{
+    background-color: gray;
+    height:100vh 
+}
+
